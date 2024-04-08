@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu santuário 🐍💻
+## Opa, beleza? Bem - Vindo onde a mágica acontece! Me chamo Vinícius 🐍💻
 
  <div>
    <a href="https://github.com/Vinicius-Eira">
