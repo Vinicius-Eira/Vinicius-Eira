@@ -1,4 +1,4 @@
-## Opa, beleza? Bem - Vindo onde a mágica acontece! Me chamo Vinícius 🐍💻
+## Opa, beleza? Bem-vindo onde a mágica acontece! Me chamo Vinícius 🐍💻
 
  <div>
    <a href="https://github.com/Vinicius-Eira">
