@@ -20,7 +20,8 @@
 ### Entre em contato comigo para se conectar!
  
 <div> 
-   <a href="mailto:viniciusantos.eira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-📧%20Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/vinícius-eira/" target="_blank"><img src="https://img.shields.io/badge/-🔗%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="mailto:viniciusantos.eira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-📧%20Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/vinícius-eira/" target="_blank"><img src="https://img.shields.io/badge/-🔗%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
 
