@@ -1,4 +1,4 @@
-## lá! Tudo bem por aí? Seja muito bem-vindo ao espaço onde a mágica acontece! Aqui é o Vinícius, e estou pronto para tornar as coisas ainda mais incríveis. 🚀 🐍💻
+## Seja muito bem-vindo ao espaço onde a mágica acontece! Aqui é o Vinícius, e estou pronto para tornar as coisas ainda mais emocionantes . 🚀 🐍💻
 
  <div>
    <a href="https://github.com/Vinicius-Eira">
