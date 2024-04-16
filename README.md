@@ -1,5 +1,12 @@
-## Aqui é o Vinícius, e estou pronto para tornar as coisas ainda mais emocionantes.🐍💻 ##
+## Eaii Devs!! Me chamo Vinícius, e estou pronto para tornar as coisas ainda mais emocionantes. 💡💻 ##
 
+🐍 Estudo programação - Front-End | Back-End | Ciência de Dados | IA
+✨ - Sempre buscando o melhor de mim
+
+### SOBRE MIM
+-> Sou o Vinícius e estou explorando o mundo dos dados e do desenvolvimento back-end, com um olhar voltado para ambos. <-
+
+  ## Linguagens e Tecnologias
  <div>
    <a href="https://github.com/Vinicius-Eira">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Eira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -13,7 +20,14 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
- 
+
+### Estou aprendendo
+   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+
 <br>
  
 ### Entre em contato comigo para se conectar!
