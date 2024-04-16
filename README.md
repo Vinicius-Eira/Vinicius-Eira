@@ -2,10 +2,10 @@
 
 
 🐍 Estudo programação - Front-End | Back-End | Ciência de Dados | IA <br>
-✨ - Sempre buscando o melhor de mim
+🧠 - Sempre buscando o melhor de mim
 
 ### SOBRE MIM
--> Sou o Vinícius e estou explorando o mundo dos dados e do desenvolvimento back-end, com um olhar voltado para ambos. <-
+-> Sou o Vinícius e estou explorando o mundo dos dados e do desenvolvimento back-end, com um olhar voltado para ambos. 
 
   ## Linguagens e Tecnologias
  <div>
