@@ -5,7 +5,7 @@
 🧠 - Sempre buscando o melhor de mim
 
 ### SOBRE MIM
--> Sou o Vinícius e estou explorando o mundo dos dados e do desenvolvimento back-end, com um olhar voltado para ambos. 
+-> Sou o Vinícius  tenho 18 anos, e estou explorando o mundo dos dados e do desenvolvimento back-end, com um olhar voltado para ambos. 
 
   ## Linguagens e Tecnologias
  <div>
