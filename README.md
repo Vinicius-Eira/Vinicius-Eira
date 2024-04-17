@@ -8,7 +8,11 @@
 -> Sou o Vinícius  tenho 18 anos, e estou explorando o mundo dos dados e do desenvolvimento back-end, com um olhar voltado para ambos. 
 
   ## Linguagens e Tecnologias
- ![image](https://github.com/Vninícius-Eira/Vinícius-Eira/assets/126569987/7a4277dc-fafc-4799-8985-570f83622150)
+ <div>
+   <a href="https://github.com/Vinicius-Eira">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Eira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Eira&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
