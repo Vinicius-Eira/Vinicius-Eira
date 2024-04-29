@@ -1,7 +1,7 @@
 ## Eaii Devs!! Me chamo Vinícius, e estou pronto para tornar as coisas ainda mais emocionantes. 💡💻 ##
 
 
-🐍 Estudo programação -| Back-End | Ciência de Dados | IA <br>
+🐍 Estudo programação - Front-End| Back-End | Ciência de Dados | IA <br>
 🧠 - Sempre buscando o melhor de mim
 
 ### SOBRE MIM
