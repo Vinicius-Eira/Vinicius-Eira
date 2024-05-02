@@ -1,13 +1,13 @@
-## Eaii Devs!! Me chamo Vinícius, e estou pronto para tornar as coisas ainda mais emocionantes. 💡💻 ##
+##Hey Devs!! My name is Vinícius, and I'm ready to make things even more exciting. 💡💻##
 
 
-🐍 Estudo programação - Front-End| Back-End | Ciência de Dados | IA <br>
-🧠 - Sempre buscando o melhor de mim
+🐍 Study Programming - Front-End| Backend | Data Science | AI<br>
+🧠 - Always looking for the best in me
 
-### SOBRE MIM
--> Sou o Vinícius  tenho 18 anos, e estou explorando o mundo dos dados e do desenvolvimento back-end, com um olhar voltado para ambos. 
+### ABOUT ME
+-> My name's Vinícius, I'm 18 years old, and I'm exploring the world of data and back-end development, with an eye toward both.
 
-  ## Linguagens e Tecnologias
+## Languages ​​and Technologies
  <div>
    <a href="https://github.com/Vinicius-Eira">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Eira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -22,7 +22,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
- ### Minhas Skills:   
+ ### Skills:   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,7 +30,7 @@
 </div>
 
 
-### Estudando no momento:
+### Currently studying:
 
 <div style="display: inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -40,7 +40,7 @@
 
 
  
-### Entre em contato comigo para se conectar!
+### Contact me to connect!
  
 <div> 
    <a href="mailto:viniciusantos.eira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-📧%20Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
