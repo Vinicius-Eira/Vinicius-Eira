@@ -1,4 +1,4 @@
-##Hey Devs!! My name is Vinícius, and I'm ready to make things even more exciting. 💡💻##
+##Hey Devs!! My name is Vinícius, and I'm ready to make things even more exciting. 💡💻
 
 
 🐍 Study Programming - Front-End| Backend | Data Science | AI<br>
