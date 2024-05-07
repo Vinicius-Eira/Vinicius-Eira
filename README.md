@@ -1,13 +1,10 @@
-##Hey Devs!! My name is Vinícius, and I'm ready to make things even more exciting. 💡💻
+##Ei, DEVS!! -> Meu nome é Vinícius, e estou explorando o mundo dos dados e do desenvolvimento back-end, de olho em ambos. 💡💻
 
 
-🐍 Study Programming - Front-End| Backend | Data Science | AI<br>
-🧠 - Always looking for the best in me
+🐍 Programação de estudos <br>
+🧠 - Sempre buscando o que há de melhor em mim
 
-### ABOUT ME
--> My name's Vinícius, I'm 18 years old, and I'm exploring the world of data and back-end development, with an eye toward both.
-
-## Languages ​​and Technologies
+## Linguagens e Tecnologias
  <div>
    <a href="https://github.com/Vinicius-Eira">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Eira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -22,7 +19,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
- ### Skills:   
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,7 +27,7 @@
 </div>
 
 
-### Currently studying:
+### Estudando no momento:
 
 <div style="display: inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -40,7 +37,7 @@
 
 
  
-### Contact me to connect!
+### Minhas Redes!
  
 <div> 
    <a href="mailto:viniciusantos.eira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-📧%20Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
