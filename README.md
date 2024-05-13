@@ -1,4 +1,4 @@
-##Ei, DEVS!! -> Meu nome é Vinícius, e estou explorando o mundo dos dados e do desenvolvimento back-end, de olho em ambos. 💡💻
+![github-header-image](https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/8573315a-602a-4089-96c8-5c366c23403b)
 
 
 🐍 Programação de estudos <br>
