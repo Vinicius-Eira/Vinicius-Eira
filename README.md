@@ -1,5 +1,6 @@
-![github-header-image](https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/8573315a-602a-4089-96c8-5c366c23403b)
+![github-header-image](https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/2e678480-a9bf-42da-b1cf-ca2cad12bac0)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3D14FF&center=verdadeiro&vCenter=verdadeiro&repeat=falso&random=falso&width=500&lines=Hey+Devs!+My+name's+Vin%C3%ADcius+;and+welcome+to+my+profile+%F0%9F%90%8D)](https://git.io/typing-svg)
 
 🐍 Programação de estudos <br>
 🧠 - Sempre buscando o que há de melhor em mim
@@ -12,11 +13,10 @@
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vinícius-Eira}/count.svg" /></p> 
-<br></div>
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vin%C3%ADcius-Eira&theme=shadow-red&locale=pt_BR)](https://git.io/streak-stats)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+</div>
 
 ### Linguagens Conhecidas
     
