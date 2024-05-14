@@ -29,7 +29,7 @@
 
 <img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/fcf95457-b651-4994-9ee2-bad4612f38d8">
 
-<img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/d093c9c5-56d0-4720-9fc6-58f7d29cbf32">
+<img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/58ce6ea7-ac41-4c06-b93a-f36572ffe66e">
 
 </div>
 
