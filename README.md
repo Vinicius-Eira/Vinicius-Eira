@@ -27,7 +27,7 @@
 <div align="left"> 
 <img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/ce70ea30-ae71-4669-a3f1-d5b36ddc7d35">
 
-<img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/04f5cd75-8f74-471b-a3f2-f0c275b81864">
+<img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/fcf95457-b651-4994-9ee2-bad4612f38d8">
 
 <img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/d093c9c5-56d0-4720-9fc6-58f7d29cbf32">
 
