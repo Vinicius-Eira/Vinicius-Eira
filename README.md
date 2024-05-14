@@ -21,6 +21,8 @@
 </div>
 
 ### Linguagens Conhecidas
+
+<br>
     
 <div align="left"> 
 <img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/dde7683a-063c-4ab8-bed7-2e6872a19b14">
