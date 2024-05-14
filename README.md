@@ -1,8 +1,9 @@
-![github-header-image](https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/2e678480-a9bf-42da-b1cf-ca2cad12bac0)
+![github-header-image (1)](https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/49b7519a-69c6-4642-aa59-1a6f16e9640e)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3D14FF&center=verdadeiro&vCenter=verdadeiro&repeat=falso&random=falso&width=500&lines=Hey+Devs!+My+name's+Vin%C3%ADcius+;and+welcome+to+my+profile+%F0%9F%90%8D)](https://git.io/typing-svg)
 
-🐍 Programação de estudos <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=500&lines=Seja+muito+bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
+
+🐍 - Programação de estudos <br>
 🧠 - Sempre buscando o que há de melhor em mim
 
 ## Linguagens e Tecnologias
