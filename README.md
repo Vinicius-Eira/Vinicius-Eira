@@ -44,7 +44,8 @@
 <h2 align="left"> Studying in this moment: </h2>
 
 <div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+ <img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/a6e02cee-d8ae-477a-a1ff-db48c595838e">
+  
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Banco de Dados" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div> 
