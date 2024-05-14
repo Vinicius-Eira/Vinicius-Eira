@@ -27,11 +27,19 @@
 
 <img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/04f5cd75-8f74-471b-a3f2-f0c275b81864">
 
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div> <br>
+<img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/d093c9c5-56d0-4720-9fc6-58f7d29cbf32">
+
+</div>
+
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br> 
 
 
-### Estudando no momento:
+<h2 align="left"> Studying in this moment: </h2>
 
 <div style="display: inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
