@@ -46,9 +46,16 @@
 <div style="display: inline_block">
  <img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/cf9c0228-0393-4ff6-98ee-b756bc7f58f7">
   
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Banco de Dados" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+ <img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/c5668699-a987-441c-9511-0cb84aab670b">
+
 </div> 
+
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br> 
 
 
  
