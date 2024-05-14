@@ -6,15 +6,10 @@
 🧠 - Sempre buscando o que há de melhor em mim
 
 ## Linguagens e Tecnologias
- <div>
-   <a href="https://github.com/Vinicius-Eira">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Eira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Eira&layout=compact&langs_count=6&theme=dark"/>
-</div>
 
 <div align="center">
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vin%C3%ADcius-Eira&theme=shadow-red&locale=pt_BR)](https://git.io/streak-stats)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vinicius-Eira&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
 
