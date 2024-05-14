@@ -9,7 +9,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vinicius-Eira&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vinicius-Eira&theme=shadow-blue&hide_border=falso&locale=pt_BR&card_width=900&card_height=200)](https://git.io/streak-stats)
 
 </div>
 
