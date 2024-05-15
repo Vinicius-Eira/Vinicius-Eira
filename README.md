@@ -34,7 +34,7 @@
 <br>
     
 <h2 align="left"> Main Skils: </h2>
-<img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/7f0292e9-4d7a-45fe-a6cf-6aa427c6dfd0">
+<img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/9a814ced-dd37-4e38-be7a-301018682b5b">
 
 <img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/fcf95457-b651-4994-9ee2-bad4612f38d8">
 
