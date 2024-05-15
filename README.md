@@ -20,7 +20,7 @@
 
 </div>
 
-### Linguagens Conhecidas
+### Main Skils
 
 <br>
     
