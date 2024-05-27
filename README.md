@@ -40,6 +40,7 @@
 
 <img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/58ce6ea7-ac41-4c06-b93a-f36572ffe66e">
 
+ <img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/8afb8de0-930f-4e40-b290-6fd77870692c">
 </div>
 
 <br>
@@ -57,7 +58,6 @@
   
  <img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/c5668699-a987-441c-9511-0cb84aab670b">
 
- <img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/01fa2698-083e-4236-bae4-669d154d1144">
 
 </div> 
 
