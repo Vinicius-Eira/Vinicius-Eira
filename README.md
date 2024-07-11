@@ -34,13 +34,13 @@
 <br>
     
 <h2 align="left"> Main Skils: </h2>
-<img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/9a814ced-dd37-4e38-be7a-301018682b5b">
+<img align="left" height="60" width="60" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/9a814ced-dd37-4e38-be7a-301018682b5b">
 
-<img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/fcf95457-b651-4994-9ee2-bad4612f38d8">
+<img align="left" height="60" width="60" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/fcf95457-b651-4994-9ee2-bad4612f38d8">
 
-<img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/58ce6ea7-ac41-4c06-b93a-f36572ffe66e">
+<img align="left" height="60" width="60" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/58ce6ea7-ac41-4c06-b93a-f36572ffe66e">
 
- <img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/8afb8de0-930f-4e40-b290-6fd77870692c">
+ <img align="left" height="60" width="60" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/8afb8de0-930f-4e40-b290-6fd77870692c">
 </div>
 
 <br>
@@ -54,9 +54,9 @@
 <h2 align="left"> Studying in this moment: </h2>
 
 <div style="display: inline_block">
- <img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/cf9c0228-0393-4ff6-98ee-b756bc7f58f7">
+ <img align="left" height="60" width="60" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/cf9c0228-0393-4ff6-98ee-b756bc7f58f7">
   
- <img align="left" height="84" width="84" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/c5668699-a987-441c-9511-0cb84aab670b">
+ <img align="left" height="60" width="60" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/c5668699-a987-441c-9511-0cb84aab670b">
 
 
 </div> 
