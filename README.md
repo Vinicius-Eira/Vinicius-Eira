@@ -16,7 +16,7 @@
 
 <div align="center"> 
 
-  <a href="mailto:viniciusantos.eira@gmail.com">
+  <a href="mailto:vsantos.eira09@gmail.com">
 <img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
     <a href="https://www.linkedin.com/in/vinícius-eira/" target="_blank">
