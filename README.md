@@ -38,7 +38,6 @@
 
 <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=007396&labelColor=0D1117" alt="Java Badge">
 
-
 <img align="left" height="60" width="60" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/58ce6ea7-ac41-4c06-b93a-f36572ffe66e">
 
  <img align="left" height="60" width="60" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/8afb8de0-930f-4e40-b290-6fd77870692c">
