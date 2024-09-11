@@ -34,7 +34,7 @@
 <br>
     
 <h2 align="left"> Main Skils: </h2>
-<img align="left" height="60" width="60" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/9a814ced-dd37-4e38-be7a-301018682b5b">
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <img align="left" height="60" width="60" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/fcf95457-b651-4994-9ee2-bad4612f38d8">
 
