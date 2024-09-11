@@ -36,7 +36,8 @@
 <h2 align="left"> Main Skils: </h2>
 <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117" alt="Python Badge">
 
-<img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=FFFFFF&labelColor=0D1117" alt="Java Badge">
+<img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=007396&labelColor=0D1117" alt="Java Badge">
+
 
 <img align="left" height="60" width="60" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/58ce6ea7-ac41-4c06-b93a-f36572ffe66e">
 
