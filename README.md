@@ -30,34 +30,45 @@
 
 </div>
 
-
 <br>
     
 <h2 align="left"> Main Skils: </h2>
-<img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117" alt="Python Badge">
 
-<img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=007396&labelColor=0D1117" alt="Java Badge">
-
-<img align="left" height="60" width="60" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/58ce6ea7-ac41-4c06-b93a-f36572ffe66e">
-
- <img align="left" height="60" width="60" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/8afb8de0-930f-4e40-b290-6fd77870692c">
+<div style="display: flex; gap: 10px;">
+ <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117" alt="Python Badge">
+ <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=0D1117" alt="Java Badge">
+ <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" alt="MySQL Badge">
+ <img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117" alt="HTML5 Badge">
+ <img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117" alt="CSS3 Badge">
 </div>
 
 <br>
-<br> 
-<br>
-<br>
-<br>
-<br> 
 
+<h2 align="left"> Tools: </h2>
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117" alt="Visual Studio Code Badge">
+  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" alt="Git Badge">
+  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub Badge">
+  <img src="https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=F25022&labelColor=0D1117" alt="Microsoft Office Badge">
+  <img src="https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=5C2D91&labelColor=0D1117" alt="Visual Studio Badge">
+
+<br>
+
+<h2 align="left"> Other Knowledge: </h2>
+
+<div style="display: flex; gap: 10px;">
+ <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=0D1117" alt="Bootstrap Badge">
+  <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117" alt="Figma Badge">
+
+<br>
 
 <h2 align="left"> Studying in this moment: </h2>
 
-<div style="display: inline_block">
- <img align="left" height="60" width="60" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/cf9c0228-0393-4ff6-98ee-b756bc7f58f7">
-  
- <img align="left" height="60" width="60" src="https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/c5668699-a987-441c-9511-0cb84aab670b">
-
+<div style="display: flex; gap: 10px;">
+ <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=0D1117" alt="Java Badge">  
+ <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Badge">
+ <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=0D1117" alt="Bootstrap Badge">
 
 </div> 
 
