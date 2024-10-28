@@ -5,7 +5,6 @@
 🐍 - Programação de estudos <br>
 🧠 - Sempre buscando o que há de melhor em mim
 
-## Linguagens e Tecnologias
 
 <div align="center">
   
