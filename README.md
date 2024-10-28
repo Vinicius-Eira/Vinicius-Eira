@@ -21,69 +21,74 @@
 
 <br>
 
-## Principais Habilidades
-
-<div style="display: flex; justify-content: space-evenly;">
-
- <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117" alt="Python Badge">
- <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=0D1117" alt="Java Badge">
- <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" alt="MySQL Badge">
- <img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117" alt="HTML5 Badge">
- <img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117" alt="CSS3 Badge">
-  
+  <h2>Linguagens de Programação</h2>
+    <div class="container">
+        <div class="badge"><img src="https://img.shields.io/badge/-🐍%20Python-0D1117?style=for-the-badge" alt="Python"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-☕%20Java-0D1117?style=for-the-badge" alt="Java"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-📜%20JavaScript-0D1117?style=for-the-badge" alt="JavaScript"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-🌐%20Node.js-0D1117?style=for-the-badge" alt="Node.js"></div>
+    </div>
 </div>
 
-<br>
-
-## Ferramentas
-
-<div style="display: flex; justify-content: space-evenly;">
-
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117" alt="Visual Studio Code Badge">
-  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" alt="Git Badge">
-  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub Badge">
-  <img src="https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=F25022&labelColor=0D1117" alt="Microsoft Office Badge">
-  <img src="https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=5C2D91&labelColor=0D1117" alt="Visual Studio Badge">
-
+<div class="section">
+    <h2>Frameworks</h2>
+    <div class="container">
+        <div class="badge"><img src="https://img.shields.io/badge/-⚛️%20React-0D1117?style=for-the-badge" alt="React"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-📘%20TypeScript-0D1117?style=for-the-badge" alt="TypeScript"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-🌱%20Spring%20Boot-0D1117?style=for-the-badge" alt="Spring Boot"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-🎨%20Bootstrap-0D1117?style=for-the-badge" alt="Bootstrap"></div>
+    </div>
 </div>
 
-<br>
-
-## Outros Conhecimentos
-
-<div style="display: flex; justify-content: space-evenly;">
-
- <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=0D1117" alt="Bootstrap Badge">
- <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117" alt="Figma Badge">
-
+<div class="section">
+    <h2>Tecnologias Web</h2>
+    <div class="container">
+        <div class="badge"><img src="https://img.shields.io/badge/-🌐%20HTML5-0D1117?style=for-the-badge" alt="HTML"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-🎨%20CSS3-0D1117?style=for-the-badge" alt="CSS"></div>
+    </div>
 </div>
 
-<br>
+<div class="section">
+    <h2>Banco de Dados</h2>
+    <div class="container">
+        <div class="badge"><img src="https://img.shields.io/badge/-🐬%20MySQL-0D1117?style=for-the-badge" alt="MySQL"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-🗃️%20SQLite-0D1117?style=for-the-badge" alt="SQLite"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-🍃%20MongoDB-0D1117?style=for-the-badge" alt="MongoDB"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-🔶%20Oracle-0D1117?style=for-the-badge" alt="Oracle"></div>
+    </div>
+</div>
 
-## Estudando no Momento
+<div class="section">
+    <h2>Ferramentas de Versionamento</h2>
+    <div class="container">
+        <div class="badge"><img src="https://img.shields.io/badge/-📄%20MS%20Office-0D1117?style=for-the-badge" alt="MS Office"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-🐙%20GitHub-0D1117?style=for-the-badge" alt="GitHub"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-🔧%20Git-0D1117?style=for-the-badge" alt="Git"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-💻%20Visual%20Studio%20Code-0D1117?style=for-the-badge" alt="Visual Studio Code"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-🛠️%20IntelliJ%20IDEA-0D1117?style=for-the-badge" alt="IntelliJ IDEA"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-🌐%20Postman-0D1117?style=for-the-badge" alt="Postman"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-⚙️%20Insomnia-0D1117?style=for-the-badge" alt="Insomnia"></div>
+    </div>
+</div>
 
-<div style="display: flex; justify-content: space-evenly;">
+<div class="section">
+    <h2>Arquitetura</h2>
+    <div class="container">
+        <div class="badge"><img src="https://img.shields.io/badge/-📡%20Microserviços-0D1117?style=for-the-badge" alt="Microserviços"></div>
+        <div class="badge"><img src="https://img.shields.io/badge/-🚀%20API%20Gateway-0D1117?style=for-the-badge" alt="API Gateway"></div>
+    </div>
+</div>
 
- <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=0D1117" alt="Java Badge">  
- <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Badge">
- <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=0D1117" alt="Bootstrap Badge">
-
-</div> 
-
-<br>
-
-## Onde me encontrar
-
-<div align="center">
-
-  <a href="mailto:vsantos.eira09@gmail.com">
-    <img align="center" height="40" src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email Badge">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/vinícius-eira/" target="_blank">
-    <img align="center" height="40" src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn Badge">
-  </a>
-
+<div class="section">
+    <h2>Onde me encontrar</h2>
+    <div class="contacts">
+        <a href="mailto:vsantos.eira09@gmail.com">
+            <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Badge">
+        </a>
+        <a href="https://www.linkedin.com/in/vinícius-eira/" target="_blank">
+            <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn Badge">
+        </a>
+    </div>
 </div>
 
 
