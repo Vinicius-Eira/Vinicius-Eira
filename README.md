@@ -21,17 +21,16 @@
 <br>
 
   <h2>Linguagens de Programação</h2>
-    <div class="container">
-        <div class="badge"><img src="https://img.shields.io/badge/-🐍%20Python-0D1117?style=for-the-badge" alt="Python"></div>
-        <div class="badge"><img src="https://img.shields.io/badge/-☕%20Java-0D1117?style=for-the-badge" alt="Java"></div>
-        <div class="badge"><img src="https://img.shields.io/badge/-📜%20JavaScript-0D1117?style=for-the-badge" alt="JavaScript"></div>
-        <div class="badge"><img src="https://img.shields.io/badge/-🌐%20Node.js-0D1117?style=for-the-badge" alt="Node.js"></div>
-    </div>
+<div class="container" style="display: flex; gap: 10px;">
+    <div class="badge"><img src="https://img.shields.io/badge/-🐍%20Python-0D1117?style=for-the-badge" alt="Python"></div>
+    <div class="badge"><img src="https://img.shields.io/badge/-☕%20Java-0D1117?style=for-the-badge" alt="Java"></div>
+    <div class="badge"><img src="https://img.shields.io/badge/-📜%20JavaScript-0D1117?style=for-the-badge" alt="JavaScript"></div>
+    <div class="badge"><img src="https://img.shields.io/badge/-🌐%20Node.js-0D1117?style=for-the-badge" alt="Node.js"></div>
 </div>
 
 <div class="section">
     <h2>Frameworks</h2>
-    <div class="container">
+    <div class="container" style="display: flex; gap: 10px;">
         <div class="badge"><img src="https://img.shields.io/badge/-⚛️%20React-0D1117?style=for-the-badge" alt="React"></div>
         <div class="badge"><img src="https://img.shields.io/badge/-📘%20TypeScript-0D1117?style=for-the-badge" alt="TypeScript"></div>
         <div class="badge"><img src="https://img.shields.io/badge/-🌱%20Spring%20Boot-0D1117?style=for-the-badge" alt="Spring Boot"></div>
@@ -40,23 +39,22 @@
 </div>
 
 <div class="section">
-<h2>Tecnologias Web</h2>
-<div class="container" style="display: flex; gap: 10px;">
-    <div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-        <img width="14" height="14" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" />
-        <span style="font-size: 8px; font-weight: bold; color: white;">HTML</span> <!-- Diminuído para 8px -->
-    </div>
-    <div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-        <img width="14" height="14" src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3" />
-        <span style="font-size: 8px; font-weight: bold; color: white;">CSS</span> <!-- Diminuído para 8px -->
+    <h2>Tecnologias Web</h2>
+    <div class="container" style="display: flex; gap: 10px;">
+        <div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
+            <img width="14" height="14" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" />
+            <span style="font-size: 8px; font-weight: bold; color: white;">HTML</span>
+        </div>
+        <div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
+            <img width="14" height="14" src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3" />
+            <span style="font-size: 8px; font-weight: bold; color: white;">CSS</span>
+        </div>
     </div>
 </div>
 
-
-
 <div class="section">
     <h2>Banco de Dados</h2>
-    <div class="container">
+    <div class="container" style="display: flex; gap: 10px;">
         <div class="badge"><img src="https://img.shields.io/badge/-🐬%20MySQL-0D1117?style=for-the-badge" alt="MySQL"></div>
         <div class="badge"><img src="https://img.shields.io/badge/-🗃️%20SQLite-0D1117?style=for-the-badge" alt="SQLite"></div>
         <div class="badge"><img src="https://img.shields.io/badge/-🍃%20MongoDB-0D1117?style=for-the-badge" alt="MongoDB"></div>
@@ -66,7 +64,7 @@
 
 <div class="section">
     <h2>Ferramentas de Versionamento</h2>
-    <div class="container">
+    <div class="container" style="display: flex; gap: 10px;">
         <div class="badge"><img src="https://img.shields.io/badge/-📄%20MS%20Office-0D1117?style=for-the-badge" alt="MS Office"></div>
         <div class="badge"><img src="https://img.shields.io/badge/-🐙%20GitHub-0D1117?style=for-the-badge" alt="GitHub"></div>
         <div class="badge"><img src="https://img.shields.io/badge/-🔧%20Git-0D1117?style=for-the-badge" alt="Git"></div>
@@ -79,11 +77,12 @@
 
 <div class="section">
     <h2>Arquitetura</h2>
-    <div class="container">
+    <div class="container" style="display: flex; gap: 10px;">
         <div class="badge"><img src="https://img.shields.io/badge/-📡%20Microserviços-0D1117?style=for-the-badge" alt="Microserviços"></div>
         <div class="badge"><img src="https://img.shields.io/badge/-🚀%20API%20Gateway-0D1117?style=for-the-badge" alt="API Gateway"></div>
     </div>
 </div>
+
 
 <div class="section">
     <h2>Onde me encontrar</h2>
