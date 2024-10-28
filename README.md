@@ -40,12 +40,19 @@
 </div>
 
 <div class="section">
-    <h2>Tecnologias Web</h2>
-    <div class="container">
-        <div class="badge"><img src="https://img.shields.io/badge/-🌐%20HTML5-0D1117?style=for-the-badge" alt="HTML"></div>
-        <div class="badge"><img src="https://img.shields.io/badge/-🎨%20CSS3-0D1117?style=for-the-badge" alt="CSS"></div>
+<h2>Tecnologias Web</h2>
+<div class="container" style="display: flex; gap: 10px;">
+    <div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
+        <img width="14" height="14" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" />
+        <span style="font-size: 8px; font-weight: bold; color: white;">HTML</span> <!-- Diminuído para 8px -->
+    </div>
+    <div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
+        <img width="14" height="14" src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3" />
+        <span style="font-size: 8px; font-weight: bold; color: white;">CSS</span> <!-- Diminuído para 8px -->
     </div>
 </div>
+
+
 
 <div class="section">
     <h2>Banco de Dados</h2>
