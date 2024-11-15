@@ -6,11 +6,6 @@
 🧠 - Sempre buscando o que há de melhor em mim
 
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vinicius-Eira&theme=shadow-blue&hide_border=false&locale=pt_BR&card_width=900&card_height=200)](https://git.io/streak-stats)
-
-</div>
 
 <div align="center">
 
