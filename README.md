@@ -1,11 +1,17 @@
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&random=false&width=435&lines=Seja+bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
+<h1 align="center">🚀 Vinícius Eira 🚀</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&random=false&width=435&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Júnior!;Apaixonado+por+Sistemas,+Dados+e+IA!" alt="Typing SVG" /> </p>
 
-🐍 - Programação de estudos <br>
-🧠 - Sempre buscando o que há de melhor em mim
+<p align="center">
+  Tenho 19 anos e sou <strong>Desenvolvedor Júnior / Analista de Sistemas</strong>.<br>
+  Apaixonado por sistemas, dados e inteligência artificial, atuo no desenvolvimento de soluções robustas e escaláveis.  
+  Tenho experiência com Protheus, automação de processos de TI e integração de serviços.  
+  Minha principal missão é otimizar operações e criar aplicações de alta performance, garantindo eficiência e segurança em cada projeto.
+</p>
 
 
+</p>
 
 <div align="center">
 
@@ -15,139 +21,188 @@
 
 <br>
 
-  <h2>Linguagens de Programação</h2>
-<div class="container" style="display: flex; gap: 10px;">
-    <div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/python.png" alt="Python" />
-    <span style="color: white; font-size: 14px;">Python</span>
-</div>
-    <div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" />
-    <span style="color: white; font-size: 14px;">Java</span>
-</div>
+ <img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring Boot" 
+    title="Spring Boot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap" 
+    title="Bootstrap"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML" 
+    title="HTML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQLite" 
+    title="SQLite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Oracle" 
+    title="Oracle"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Visual Studio Code" 
+    title="Visual Studio Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="IntelliJ IDEA" 
+    title="IntelliJ IDEA"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Insomnia" 
+    title="Insomnia"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Microservices" 
+    title="Microservices"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="API Gateway" 
+    title="API Gateway"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" 
+/>
 
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
-    <span style="color: white; font-size: 14px;">JavaScript</span>
-</div>
+<br>
+<br>
+<br>
 
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
-    <span style="color: white; font-size: 14px;">Node.js</span>
-</div>
-
-
-<div class="section">
-    <h2>Frameworks</h2>
-  <div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/react-native.png" alt="React" />
-    <span style="color: white; font-size: 14px;">React</span>
-</div>
-
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" />
-    <span style="color: white; font-size: 14px;">TypeScript</span>
-</div>
-
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" />
-    <span style="color: white; font-size: 14px;">Spring Boot</span>
-</div>
-
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
-    <span style="color: white; font-size: 14px;">Bootstrap</span>
-</div>
-
-
-<div class="section">
-    <h2>Tecnologias Web</h2>
-    <div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" />
-    <span style="color: white; font-size: 14px;">HTML</span>
-</div>
-
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
-    <span style="color: white; font-size: 14px;">CSS</span>
-</div>
-
-
-<div class="section">
-    <h2>Banco de Dados</h2>
-   <div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
-    <span style="color: white; font-size: 14px;">MySQL</span>
-</div>
-
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/ios-filled/50/4a90e2/sqlite.png" alt="SQLite" />
-    <span style="color: white; font-size: 14px;">SQLite</span>
-</div>
-
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
-    <span style="color: white; font-size: 14px;">MongoDB</span>
-</div>
-
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle" />
-    <span style="color: white; font-size: 14px;">Oracle</span>
-</div>
-
-
-<div class="section">
-    <h2>Ferramentas de Versionamento</h2>
-    <div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="MS Office" />
-    <span style="color: white; font-size: 14px;">MS Office</span>
-</div>
-
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub" />
-    <span style="color: white; font-size: 14px;">GitHub</span>
-</div>
-
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/git.png" alt="Git" />
-    <span style="color: white; font-size: 14px;">Git</span>
-</div>
-
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="Visual Studio Code" />
-    <span style="color: white; font-size: 14px;">Visual Studio Code</span>
-</div>
-
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA" />
-    <span style="color: white; font-size: 14px;">IntelliJ IDEA</span>
-</div>
-
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" />
-    <span style="color: white; font-size: 14px;">Postman</span>
-</div>
-
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://insomnia.rest/images/insomnia-logo.svg" alt="Insomnia" />
-    <span style="color: white; font-size: 14px;">Insomnia</span>
-</div>
-
-
-
-<div class="section">
-    <h2>Arquitetura</h2>
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <span style="color: white; font-size: 14px;">Microserviços</span>
-</div>
-
-<div class="badge" style="display: flex; align-items: center; background-color: #0D1117; border-radius: 5px; padding: 4px; gap: 4px;">
-    <img width="14" height="14" src="https://img.icons8.com/color/48/api.png" alt="API Gateway" />
-    <span style="color: white; font-size: 14px;">API Gateway</span>
-</div>
-
-
-## 🌎 Onde me encontrar
+## <p align="center">🌎Onde me encontrar🌎</p>
 <p align="center">
   <a href="mailto:vsantos.eira09@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
   <a href="https://www.linkedin.com/in/vinícius-eira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
