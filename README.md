@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/Vinicius-Eira/Vinicius-Eira/assets/161368325/49b7519a-69c6-4642-aa59-1a6f16e9640e)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&random=false&width=435&lines=Seja+bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
@@ -147,17 +147,10 @@
 </div>
 
 
-<div class="section">
-    <h2>Onde me encontrar</h2>
-    <div class="contacts">
-        <a href="mailto:vsantos.eira09@gmail.com">
-            <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Badge">
-        </a>
-        <a href="https://www.linkedin.com/in/vinícius-eira/" target="_blank">
-            <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn Badge">
-        </a>
-    </div>
-</div>
-
+## 🌎 Onde me encontrar
+<p align="center">
+  <a href="mailto:vsantos.eira09@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
+  <a href="https://www.linkedin.com/in/vinícius-eira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
 
