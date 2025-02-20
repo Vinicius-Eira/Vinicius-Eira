@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h1 align="center">🚀 Vinícius Eira 🚀</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&random=false&width=435&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Júnior!;Apaixonado+por+Sistemas,+Dados+e+IA!" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&random=false&width=435&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Júnior!;Apaixonado+por+Sistemas,+Dados+e+IA!" alt="Typing SVG" /> </p>
 
 <p align="center">
   Tenho 19 anos e sou <strong>Desenvolvedor Júnior / Analista de Sistemas</strong>.<br>
