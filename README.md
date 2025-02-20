@@ -45,16 +45,32 @@
 [![Microservices](https://img.shields.io/badge/Microservices-FF9E0F?style=for-the-badge&logo=apachekafka&logoColor=white)](https://microservices.io/)
 [![API Gateway](https://img.shields.io/badge/API%20Gateway-0096FF?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/api-gateway/)
 
-
-
-<br>
-<br>
-<br>
-
-## <p align="center">🌎Onde me encontrar🌎</p>
-<p align="center">
-  <a href="mailto:vsantos.eira09@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
-  <a href="https://www.linkedin.com/in/vinícius-eira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<p align="left">
+  💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
 
+  <a href="https://www.linkedin.com/in/vinícius-eira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
+<a href="https://wa.me/+5511996063094" title="WhatsApp" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+
+
+<br>
+<br>
+<br>
+
+
+<div align="center">
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/Vinicius-Eira/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
+
+<br>
+<br>
+<br>
