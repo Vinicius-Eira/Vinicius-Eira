@@ -3,10 +3,9 @@
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&random=false&width=435&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Júnior!;Apaixonado+por+Sistemas,+Dados+e+IA!" alt="Typing SVG" /> </p>
 
 <p align="center">
-  Tenho 19 anos e sou <strong>Desenvolvedor Júnior / Analista de Sistemas</strong>.<br>
-  Apaixonado por sistemas, dados e inteligência artificial, atuo no desenvolvimento de soluções robustas e escaláveis.  
-  Tenho experiência com Protheus, automação de processos de TI e integração de serviços.  
-  Minha principal missão é otimizar operações e criar aplicações de alta performance, garantindo eficiência e segurança em cada projeto.
+ Tenho 19 anos e atuo como Desenvolvedor Júnior e Analista de Sistemas, com foco em criar aplicações modernas, eficientes e seguras. Sou movido por desafios que envolvem dados, performance e tecnologia aplicada de forma inteligente.
+
+Atualmente, desenvolvo soluções com React e TypeScript, integrando APIs e trabalhando com bancos de dados para entregar sistemas funcionais e escaláveis. Também tenho interesse crescente por inteligência artificial e automação, buscando sempre evoluir tecnicamente e entregar projetos que façam a diferença na rotina dos usuários.
 </p>
 
 
