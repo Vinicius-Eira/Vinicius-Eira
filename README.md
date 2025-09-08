@@ -2,6 +2,8 @@
 
 ---
 
+<div align="center">
+
 ## Sobre mim  
 
 Sou um desenvolvedor apaixonado por **tecnologia e inovação**, sempre em busca de criar soluções digitais modernas, seguras e escaláveis.  
