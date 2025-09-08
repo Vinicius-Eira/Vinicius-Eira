@@ -1,4 +1,4 @@
-<h3 align="center">Full Stack Developer | Entusiasta de IA & Automação</h3>
+<h3 align="center">Full Stack Developer | IA & Automação</h3>
 
 ---
 
