@@ -43,13 +43,6 @@ Tenho grande interesse em **Inteligência Artificial** e **Automação**, áreas
 
 ---
 
-## 📈 Gráfico de Contribuições  
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Eira&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
----
-
 <div align="center">
 
 ## 📬 Onde me encontrar  
