@@ -27,7 +27,7 @@ Tenho grande interesse em **Inteligência Artificial** e **Automação**, áreas
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,firebase" />
 
 ### DevOps & Ferramentas  
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,gitlab" />
+<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,gitlab" />
 
 </div>
 
