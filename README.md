@@ -11,8 +11,6 @@ Trabalho com **frontend e backend**, integrando sistemas para entregar experiên
 
 Tenho grande interesse em **Inteligência Artificial** e **Automação**, áreas que me inspiram a explorar novas possibilidades e evoluir constantemente.  
 
-📍 São Paulo - Brasil  
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
