@@ -33,14 +33,6 @@ Tenho grande interesse em **Inteligência Artificial** e **Automação**, áreas
 
 ---
 
-## 📊 Estatísticas do GitHub  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Eira&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Eira&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-</div>
-
----
-
 <div align="center">
 
 ## 📬 Onde me encontrar  
