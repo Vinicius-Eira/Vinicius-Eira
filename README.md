@@ -5,7 +5,8 @@ Desenvolvo aplicações completas com visão de sistema, utilizando o frontend c
 
 
 ---
-
+<div align="center">
+  
 ## 🛠️ Tecnologias & Ferramentas  
 
 <div align="center">
