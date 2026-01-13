@@ -1,15 +1,8 @@
-<h3 align="center">Desenvolvedor Full Stack | Java, React & Next.js</h3>
+<h1 align="center">Backend-first com visão de sistema.</h1>
 
----
+Trabalho na construção de APIs, modelagem de dados e integração entre sistemas, com foco em lógica de negócio, arquitetura bem definida e código sustentável.
+Desenvolvo aplicações completas com visão de sistema, utilizando o frontend como suporte para validação e entrega de soluções funcionais, escaláveis e fáceis de manter.
 
-<div align="center">
-
-## Sobre mim  
-
-Sou um desenvolvedor apaixonado por **tecnologia e inovação**, sempre em busca de criar soluções digitais modernas, seguras e escaláveis.  
-Trabalho com **frontend e backend**, integrando sistemas para entregar experiências completas.  
-
-Tenho grande interesse em **Inteligência Artificial** e **Automação**, áreas que me inspiram a explorar novas possibilidades e evoluir constantemente.  
 
 ---
 
