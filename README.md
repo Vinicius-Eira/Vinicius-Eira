@@ -1,47 +1,80 @@
-Trabalho na construção de APIs, modelagem de dados e integração entre sistemas, com foco em lógica de negócio, arquitetura bem definida e código sustentável.
-Desenvolvo aplicações completas com visão de sistema, utilizando o frontend como suporte para validação e entrega de soluções funcionais, escaláveis e fáceis de manter.
+# Vinícius Ribeiro dos Santos Eira
 
+💼 Desenvolvedor de Software | Full Stack  
+📍 São Paulo, Brasil  
 
----
-<div align="center">
-  
-## 🛠️ Tecnologias & Ferramentas  
-
-<div align="center">
-
-### Frontend  
-<img src="https://skillicons.dev/icons?i=react,ts,next,tailwind,js" />
-
-### Backend  
-<img src="https://skillicons.dev/icons?i=java,nodejs,python,graphql,kotlin" />
-
-### Banco de Dados  
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,firebase" />
-
-### DevOps & Ferramentas  
-<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,gitlab" />
-
-</div>
+📧 [Email](mailto:viniciusantos.eira@gmail.com) | 🌐[LinkedIn](https://www.linkedin.com/in/vinícius-eira) | 💻 [GitHub](https://github.com/Vinicius-Eira)
 
 ---
 
-<div align="center">
+Sou desenvolvedor de software formado em Análise e Desenvolvimento de Sistemas, com experiência prática na criação de aplicações web, APIs e sistemas corporativos. Atuo tanto no backend quanto no frontend, com foco em código organizado, integração entre serviços e desenvolvimento de soluções escaláveis e bem estruturadas.
 
-## 📬 Onde me encontrar  
-<a href="https://www.linkedin.com/in/vinícius-eira/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:vinicius@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://wa.me/5511996063094" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
-</div>
+Tenho vivência no desenvolvimento, manutenção e evolução de sistemas, integração de APIs, modelagem de dados e construção de aplicações modernas seguindo boas práticas de engenharia de software.
 
 ---
 
-<div align="center">
-  <i>💡 Buscando sempre aprender, evoluir e compartilhar conhecimento.</i>
-</div>
+## Stack Principal
+
+### Backend
+<img src="https://skillicons.dev/icons?i=java,nodejs" />
+
+- Desenvolvimento de APIs REST  
+- Arquitetura de serviços  
+- Integração entre sistemas  
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,ts,js" />
+
+- Desenvolvimento de SPAs  
+- Consumo e integração com APIs  
+
+### Banco de Dados
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+- SQL  
+- Modelagem de dados  
+- Consultas e otimização  
+
+---
+
+## Tecnologias e Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+
+- Clean Code e organização de arquitetura  
+- Integração de APIs REST / JSON  
+- Testes e validação de funcionalidades  
+- Documentação técnica de sistemas  
+- Metodologias ágeis (Scrum / Kanban)
+
+---
+
+## Áreas de Atuação
+
+✔ Desenvolvimento Full Stack  
+✔ Construção e integração de APIs  
+✔ Sistemas web corporativos  
+✔ Integração entre serviços  
+✔ Modelagem e manipulação de dados  
+✔ Manutenção e evolução de software  
+✔ Arquitetura e organização de código  
+
+---
+
+## 🎓 Formação
+
+Análise e Desenvolvimento de Sistemas — (FIAP-2025)
+
+Formação voltada para engenharia de software, desenvolvimento de aplicações, bancos de dados e arquitetura de sistemas.
+
+---
+
+## Projetos
+
+Este repositório reúne projetos voltados ao desenvolvimento de software, construção de APIs e aplicações web completas, integrando backend, frontend e banco de dados.
+
+Novos projetos e melhorias são adicionados continuamente.
+
+---
+
+Obrigado por visitar meu perfil.
