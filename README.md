@@ -63,17 +63,27 @@ Tenho vivência no desenvolvimento, manutenção e evolução de sistemas, integ
 
 ## 🎓 Formação
 
-Análise e Desenvolvimento de Sistemas — (FIAP-2025)
+**Análise e Desenvolvimento de Sistemas — FIAP (2025)**  
 
 Formação voltada para engenharia de software, desenvolvimento de aplicações, bancos de dados e arquitetura de sistemas.
 
 ---
 
-## Projetos
+## 🏆 Projetos em Destaque
 
-Este repositório reúne projetos voltados ao desenvolvimento de software, construção de APIs e aplicações web completas, integrando backend, frontend e banco de dados.
+---
 
-Novos projetos e melhorias são adicionados continuamente.
+### 🚗 [CarCheck](https://github.com/Vinicius-Eira/CarCheck)
+
+Plataforma inteligente de diagnóstico e monitoramento veicular em tempo real, desenvolvida para identificar falhas antes que se tornem críticas e otimizar processos de manutenção.
+
+O sistema utiliza Inteligência Artificial para triagem automatizada de sintomas, integra serviços externos para consulta de peças e informações técnicas, além de processar dados do veículo para gerar recomendações de manutenção.
+
+A arquitetura foi projetada para integração entre múltiplos serviços, análise contínua de dados e escalabilidade da solução.
+
+Projeto reconhecido como **Finalista no FIAP NEXT**, destacando-se pela inovação tecnológica e complexidade de integração.
+
+> **Tecnologias:** React, TypeScript, Python, APIs REST, IBM Watson, Integração de Sistemas, Modelagem de Dados, Git
 
 ---
 
