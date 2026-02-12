@@ -1,5 +1,3 @@
-<h1 align="center">Backend-first com visão de sistema.</h1>
-
 Trabalho na construção de APIs, modelagem de dados e integração entre sistemas, com foco em lógica de negócio, arquitetura bem definida e código sustentável.
 Desenvolvo aplicações completas com visão de sistema, utilizando o frontend como suporte para validação e entrega de soluções funcionais, escaláveis e fáceis de manter.
 
