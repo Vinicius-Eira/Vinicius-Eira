@@ -1,6 +1,6 @@
 # Vinícius Ribeiro dos Santos Eira
 
-💼 Desenvolvedor de Software | Full Stack  
+💼 Software Developer  | Full Stack  
 📍 São Paulo, Brasil  
 
 📧 [Email](mailto:viniciusantos.eira@gmail.com) | 🌐[LinkedIn](https://www.linkedin.com/in/vinícius-eira) | 💻 [GitHub](https://github.com/Vinicius-Eira)
