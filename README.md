@@ -87,4 +87,18 @@ Projeto reconhecido como **Finalista no FIAP NEXT**, destacando-se pela inovaç�
 
 ---
 
+### 💸 [Saldo Inteligente](https://github.com/Vinicius-Eira/saldo-inteligente)
+
+Sistema web de gestão financeira pessoal desenvolvido do zero, focado em facilitar o controle diário de receitas, despesas e acompanhamento de metas financeiras através de um dashboard interativo.
+
+A aplicação oferece categorização inteligente de gastos e gestão completa de transações, garantindo validações rigorosas de dados e integração fluida com soluções de Backend-as-a-Service para persistência e autenticação.
+
+A arquitetura foi estruturada com foco em Clean Code, escalabilidade e UX/UI minimalista, servindo como uma demonstração prática da aplicação de padrões modernos de engenharia de software no frontend.
+
+Destaca-se pela alta performance, interface responsiva e pela implementação de componentes acessíveis e reutilizáveis.
+
+> **Tecnologias:** React, TypeScript, Tailwind CSS, Vite, Supabase, Zod, Modelagem de Dados, Git
+
+---
+
 Obrigado por visitar meu perfil.
