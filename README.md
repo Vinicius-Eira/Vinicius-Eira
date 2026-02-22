@@ -71,8 +71,6 @@ Formação voltada para engenharia de software, desenvolvimento de aplicações,
 
 ## 🏆 Projetos em Destaque
 
----
-
 ### 🚗 [CarCheck](https://github.com/Vinicius-Eira/CarCheck)
 
 Plataforma inteligente de diagnóstico e monitoramento veicular em tempo real, desenvolvida para identificar falhas antes que se tornem críticas e otimizar processos de manutenção.
@@ -98,6 +96,18 @@ A arquitetura foi estruturada com foco em Clean Code, escalabilidade e UX/UI min
 Destaca-se pela alta performance, interface responsiva e pela implementação de componentes acessíveis e reutilizáveis.
 
 > **Tecnologias:** React, TypeScript, Tailwind CSS, Vite, Supabase, Zod, Modelagem de Dados, Git
+
+---
+
+### 📦 [Sistema de Gestão de Entregas](https://github.com/Vinicius-Eira/desafio-saggezza)
+
+MVP de um sistema corporativo de gestão de entregas e fornecedores desenvolvido para o setor de varejo, com forte foco em segurança, alta disponibilidade e escalabilidade.
+
+A solução foi construída utilizando Arquitetura de Microsserviços e Clean Architecture, dividida em serviços independentes de Autenticação (AuthService) e Core Business (DeliveryService), garantindo isolamento de responsabilidades e proteção rigorosa das rotas via tokens JWT.
+
+O projeto destaca o domínio prático de padrões corporativos de software, aplicação dos princípios SOLID e Injeção de Dependência na construção de APIs RESTful robustas para cenários de nível Pleno/Sênior.
+
+> **Tecnologias:** C#, .NET 8, ASP.NET Core, Entity Framework Core, SQL Server, JWT, Clean Architecture, Swagger
 
 ---
 
