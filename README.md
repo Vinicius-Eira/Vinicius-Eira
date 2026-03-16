@@ -1,9 +1,9 @@
 # Vinícius Ribeiro dos Santos Eira
 
-💼 Software Developer  | Full Stack  
+💼 Software Developer | Full Stack  
 📍 São Paulo, Brasil  
 
-📧 [Email](mailto:viniciusantos.eira@gmail.com) | 🌐[LinkedIn](https://www.linkedin.com/in/vinícius-eira) | 💻 [GitHub](https://github.com/Vinicius-Eira)
+📧 [Email](mailto:viniciusantos.eira@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/vinícius-eira) | 💻 [GitHub](https://github.com/Vinicius-Eira)
 
 ---
 
@@ -13,22 +13,23 @@ Tenho vivência no desenvolvimento, manutenção e evolução de sistemas, integ
 
 ---
 
-## Stack Principal
+# Stack Principal
 
-### Backend
-<img src="https://skillicons.dev/icons?i=java,nodejs" />
+## Backend
+<img src="https://skillicons.dev/icons?i=java,nodejs,cs,dotnet" />
 
 - Desenvolvimento de APIs REST  
 - Arquitetura de serviços  
+- Microsserviços  
 - Integração entre sistemas  
 
-### Frontend
+## Frontend
 <img src="https://skillicons.dev/icons?i=react,ts,js" />
 
 - Desenvolvimento de SPAs  
 - Consumo e integração com APIs  
 
-### Banco de Dados
+## Banco de Dados
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
 - SQL  
@@ -37,7 +38,7 @@ Tenho vivência no desenvolvimento, manutenção e evolução de sistemas, integ
 
 ---
 
-## Tecnologias e Ferramentas
+# Tecnologias e Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 
@@ -49,10 +50,11 @@ Tenho vivência no desenvolvimento, manutenção e evolução de sistemas, integ
 
 ---
 
-## Áreas de Atuação
+# Áreas de Atuação
 
 ✔ Desenvolvimento Full Stack  
 ✔ Construção e integração de APIs  
+✔ Microsserviços e Arquitetura de Sistemas  
 ✔ Sistemas web corporativos  
 ✔ Integração entre serviços  
 ✔ Modelagem e manipulação de dados  
@@ -61,7 +63,7 @@ Tenho vivência no desenvolvimento, manutenção e evolução de sistemas, integ
 
 ---
 
-## 🎓 Formação
+# 🎓 Formação
 
 **Análise e Desenvolvimento de Sistemas — FIAP (2025)**  
 
@@ -69,7 +71,7 @@ Formação voltada para engenharia de software, desenvolvimento de aplicações,
 
 ---
 
-## 🏆 Projetos em Destaque
+# 🏆 Projetos em Destaque
 
 ### 🚗 [CarCheck](https://github.com/Vinicius-Eira/CarCheck)
 
@@ -103,9 +105,9 @@ Destaca-se pela alta performance, interface responsiva e pela implementação de
 
 MVP de um sistema corporativo de gestão de entregas e fornecedores desenvolvido para o setor de varejo, com forte foco em segurança, alta disponibilidade e escalabilidade.
 
-A solução foi construída utilizando Arquitetura de Microsserviços e Clean Architecture, dividida em serviços independentes de Autenticação (AuthService) e Core Business (DeliveryService), garantindo isolamento de responsabilidades e proteção rigorosa das rotas via tokens JWT.
+A solução foi construída utilizando **Arquitetura de Microsserviços e Clean Architecture**, dividida em serviços independentes de Autenticação (AuthService) e Core Business (DeliveryService), garantindo isolamento de responsabilidades e proteção rigorosa das rotas via tokens JWT.
 
-O projeto destaca o domínio prático de padrões corporativos de software, aplicação dos princípios SOLID e Injeção de Dependência na construção de APIs RESTful robustas para cenários de nível Pleno/Sênior.
+O projeto destaca o domínio prático de padrões corporativos de software, aplicação dos princípios **SOLID**, Injeção de Dependência e construção de **APIs RESTful robustas** utilizando o ecossistema .NET.
 
 > **Tecnologias:** C#, .NET 8, ASP.NET Core, Entity Framework Core, SQL Server, JWT, Clean Architecture, Swagger
 
