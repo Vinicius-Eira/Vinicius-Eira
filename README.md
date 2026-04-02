@@ -73,6 +73,20 @@ Formação voltada para engenharia de software, desenvolvimento de aplicações,
 
 # 🏆 Projetos em Destaque
 
+### 📅 [Booklyo](https://github.com/SeuUsuario/booklyo-frontend)
+
+Plataforma SaaS multi-tenant desenvolvida para digitalizar, automatizar e escalar a gestão de agendas e finanças de profissionais independentes, focada inicialmente em Personal Trainers e Barbeiros.
+
+O sistema oferece um painel executivo (Dashboard) completo com análise de dados em tempo real, geração automatizada de relatórios em PDF, gráficos interativos de performance financeira (cálculo de MRR, Ticket Médio e ARR) e gestão de agendamentos com validações rigorosas de conflito de horários.
+
+A arquitetura foi estruturada para suportar múltiplos lojistas de forma isolada e segura. O frontend foi construído de forma reativa e responsiva, garantindo uma tipagem forte (TypeScript) de ponta a ponta e consumo eficiente de APIs RESTful. O backend utiliza ORMs modernos para manipulação complexa e segura do banco de dados.
+
+Destaca-se também pela infraestrutura profissional: o projeto possui esteira de deploy contínuo (CI/CD) hospedada na Vercel e Render, além de adotar práticas corporativas de versionamento, utilizando Git Flow com proteção de branches (Main/Develop) e Code Review via Pull Requests.
+
+> **Tecnologias:** TypeScript, Next.js, React, Node.js, Express, Prisma / TypeORM, Tailwind CSS, Recharts, APIs REST, JWT, Git Flow, Vercel, Render
+
+---
+
 ### 🚗 [CarCheck](https://github.com/Vinicius-Eira/CarCheck)
 
 Plataforma inteligente de diagnóstico e monitoramento veicular em tempo real, desenvolvida para identificar falhas antes que se tornem críticas e otimizar processos de manutenção.
