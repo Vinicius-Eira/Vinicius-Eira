@@ -13,28 +13,46 @@ Tenho vivência no desenvolvimento, manutenção e evolução de sistemas, integ
 
 ---
 
-# Stack Principal
+# 🚀 Stack Principal
 
-## Backend
-<img src="https://skillicons.dev/icons?i=java,nodejs,cs,dotnet" />
+## Backend & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=java,nodejs,cs,dotnet,spring,express" />
+</p>
 
 - Desenvolvimento de APIs REST  
-- Arquitetura de serviços  
+- Arquitetura de sistemas e regras de negócio  
 - Microsserviços  
 - Integração entre sistemas  
+- Desenvolvimento com Spring Boot  
+- Criação de serviços com Express  
 
-## Frontend
-<img src="https://skillicons.dev/icons?i=react,ts,js" />
+---
+
+## Frontend & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+</p>
 
 - Desenvolvimento de SPAs  
+- Interfaces modernas e responsivas  
 - Consumo e integração com APIs  
+- Server-side rendering com Next.js  
+- Estilização com Tailwind CSS  
 
-## Banco de Dados
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+---
 
-- SQL  
+## Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker" />
+</p>
+
 - Modelagem de dados  
-- Consultas e otimização  
+- SQL e NoSQL  
+- Consultas e otimização de performance  
+- ORM com Prisma  
+- Containers com Docker  
+- Automação de fluxos com n8n  
 
 ---
 
@@ -50,18 +68,6 @@ Tenho vivência no desenvolvimento, manutenção e evolução de sistemas, integ
 
 ---
 
-# Áreas de Atuação
-
-✔ Desenvolvimento Full Stack  
-✔ Construção e integração de APIs  
-✔ Microsserviços e Arquitetura de Sistemas  
-✔ Sistemas web corporativos  
-✔ Integração entre serviços  
-✔ Modelagem e manipulação de dados  
-✔ Manutenção e evolução de software  
-✔ Arquitetura e organização de código  
-
----
 
 # 🎓 Formação
 
@@ -98,20 +104,6 @@ A arquitetura foi projetada para integração entre múltiplos serviços, análi
 Projeto reconhecido como **Finalista no FIAP NEXT**, destacando-se pela inovação tecnológica e complexidade de integração.
 
 > **Tecnologias:** React, TypeScript, Python, APIs REST, IBM Watson, Integração de Sistemas, Modelagem de Dados, Git
-
----
-
-### 💸 [Saldo Inteligente](https://github.com/Vinicius-Eira/saldo-inteligente)
-
-Sistema web de gestão financeira pessoal desenvolvido do zero, focado em facilitar o controle diário de receitas, despesas e acompanhamento de metas financeiras através de um dashboard interativo.
-
-A aplicação oferece categorização inteligente de gastos e gestão completa de transações, garantindo validações rigorosas de dados e integração fluida com soluções de Backend-as-a-Service para persistência e autenticação.
-
-A arquitetura foi estruturada com foco em Clean Code, escalabilidade e UX/UI minimalista, servindo como uma demonstração prática da aplicação de padrões modernos de engenharia de software no frontend.
-
-Destaca-se pela alta performance, interface responsiva e pela implementação de componentes acessíveis e reutilizáveis.
-
-> **Tecnologias:** React, TypeScript, Tailwind CSS, Vite, Supabase, Zod, Modelagem de Dados, Git
 
 ---
 
