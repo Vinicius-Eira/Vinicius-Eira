@@ -3,7 +3,7 @@
 💼 Software Developer | Full Stack  
 📍 São Paulo, Brasil  
 
-📧 [Email](mailto:viniciusantos.eira@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/vinícius-eira) | 💻 [GitHub](https://github.com/Vinicius-Eira)
+📧 [Email](mailto:viniciusantos.eira@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/vinícius-eira) | 💻 [Website]([https://github.com/Vinicius-Eira](https://portfolio-viniciuseira.vercel.app/))
 
 ---
 
