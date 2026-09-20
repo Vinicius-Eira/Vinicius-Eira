@@ -1,122 +1,222 @@
 # Vinícius Ribeiro dos Santos Eira
 
-💼 Software Developer | Full Stack  
+💼 Software Engineer | Full-Stack Developer  
 📍 São Paulo, Brasil  
 
-📧 [Email](mailto:viniciusantos.eira@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/vinícius-eira) | 💻 [Website](https://portfolio-viniciuseira.vercel.app/)
+[📧 Email](mailto:viniciusantos.eira@gmail.com) · [🌐 LinkedIn](https://www.linkedin.com/in/vinícius-eira) · [💻 Portfolio](https://portfolio-viniciuseira.vercel.app/)
 
 ---
 
-Sou desenvolvedor de software formado em Análise e Desenvolvimento de Sistemas, com experiência prática na criação de aplicações web, APIs e sistemas corporativos. Atuo tanto no backend quanto no frontend, com foco em código organizado, integração entre serviços e desenvolvimento de soluções escaláveis e bem estruturadas.
+## 👨‍💻 About Me
 
-Tenho vivência no desenvolvimento, manutenção e evolução de sistemas, integração de APIs, modelagem de dados e construção de aplicações modernas seguindo boas práticas de engenharia de software.
+Software Engineer com formação em Análise e Desenvolvimento de Sistemas pela FIAP e experiência prática no desenvolvimento de aplicações web, APIs e sistemas corporativos.
+
+Atuo no desenvolvimento Full-Stack, com foco em Back-end, integrações entre sistemas, APIs REST, bancos de dados e arquitetura de aplicações.
+
+Tenho experiência com desenvolvimento de regras de negócio, autenticação, integração de serviços, modelagem de dados, Docker, CI/CD e boas práticas de engenharia de software.
+
+Atualmente, também desenvolvo produtos próprios, aplicando na prática conceitos de arquitetura, desenvolvimento de software, banco de dados e construção de produtos digitais.
 
 ---
 
-# 🚀 Stack Principal
+## 🚀 Tech Stack
 
-## Backend & Core
+### Backend & APIs
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,nodejs,cs,dotnet,spring,express" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,ts,js" />
 </p>
 
-- Desenvolvimento de APIs REST  
-- Arquitetura de sistemas e regras de negócio  
-- Microsserviços  
-- Integração entre sistemas  
-- Desenvolvimento com Spring Boot  
-- Criação de serviços com Express  
+- Java & Spring Boot
+- Node.js & Express
+- TypeScript & JavaScript
+- REST APIs
+- API Integration
+- Business Logic
+- Authentication & Authorization
+- JWT
+- Webhooks
 
----
+### Frontend
 
-## Frontend & UI
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
 </p>
 
-- Desenvolvimento de SPAs  
-- Interfaces modernas e responsivas  
-- Consumo e integração com APIs  
-- Server-side rendering com Next.js  
-- Estilização com Tailwind CSS  
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Responsive Interfaces
+- API Consumption
+- Component-Based Development
 
----
+### Databases & Infrastructure
 
-## Database & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,docker" />
 </p>
 
-- Modelagem de dados  
-- SQL e NoSQL  
-- Consultas e otimização de performance  
-- ORM com Prisma  
-- Containers com Docker  
-- Automação de fluxos com n8n  
+- PostgreSQL
+- MySQL
+- MongoDB
+- Supabase
+- SQL
+- Database Modeling
+- Query Optimization
+- Docker
+
+### Tools & Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
+</p>
+
+- Git & GitHub
+- CI/CD
+- GitHub Actions
+- Clean Code
+- SOLID
+- Code Review
+- Agile Development
+- Scrum / Kanban
 
 ---
 
-# Tecnologias e Ferramentas
+# 🏆 Featured Projects
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+## 🚗 CarCheck
+### Intelligent Vehicle Diagnosis Platform
 
-- Clean Code e organização de arquitetura  
-- Integração de APIs REST / JSON  
-- Testes e validação de funcionalidades  
-- Documentação técnica de sistemas  
-- Metodologias ágeis (Scrum / Kanban)
+**Finalist — FIAP NEXT**
 
----
+[🔗 View Repository](https://github.com/Vinicius-Eira/CarCheck)
 
+CarCheck is a vehicle diagnosis platform designed to centralize and process information from multiple external data sources, supporting vehicle analysis and maintenance recommendations.
 
-# 🎓 Formação
+The project combines software development, API integration, data processing and Artificial Intelligence to create a solution capable of processing vehicle information and providing more accessible diagnostic insights.
 
-**Análise e Desenvolvimento de Sistemas — FIAP (2025)**  
+### What I worked on
 
-Formação voltada para engenharia de software, desenvolvimento de aplicações, bancos de dados e arquitetura de sistemas.
+- Development of APIs for consuming and integrating data from multiple external sources.
+- Data processing, normalization and centralization.
+- Integration between different services and APIs.
+- Development of the application architecture and service communication.
+- Integration with IBM Watson for AI-based interactions.
+- Containerized development environment using Docker.
+- Frontend development using React and TypeScript.
+- Version control and collaborative development using Git.
 
----
-
-# 🏆 Projetos em Destaque
-
-### 📅 [Booklyo](https://github.com/SeuUsuario/booklyo-frontend)
-
-Plataforma SaaS multi-tenant desenvolvida para digitalizar, automatizar e escalar a gestão de agendas e finanças de profissionais independentes, focada inicialmente em Personal Trainers e Barbeiros.
-
-O sistema oferece um painel executivo (Dashboard) completo com análise de dados em tempo real, geração automatizada de relatórios em PDF, gráficos interativos de performance financeira (cálculo de MRR, Ticket Médio e ARR) e gestão de agendamentos com validações rigorosas de conflito de horários.
-
-A arquitetura foi estruturada para suportar múltiplos lojistas de forma isolada e segura. O frontend foi construído de forma reativa e responsiva, garantindo uma tipagem forte (TypeScript) de ponta a ponta e consumo eficiente de APIs RESTful. O backend utiliza ORMs modernos para manipulação complexa e segura do banco de dados.
-
-Destaca-se também pela infraestrutura profissional: o projeto possui esteira de deploy contínuo (CI/CD) hospedada na Vercel e Render, além de adotar práticas corporativas de versionamento, utilizando Git Flow com proteção de branches (Main/Develop) e Code Review via Pull Requests.
-
-> **Tecnologias:** TypeScript, Next.js, React, Node.js, Express, Prisma / TypeORM, Tailwind CSS, Recharts, APIs REST, JWT, Git Flow, Vercel, Render
+> **Technologies:** React, TypeScript, Python, REST APIs, IBM Watson, Docker, Git, Data Integration
 
 ---
 
-### 🚗 [CarCheck](https://github.com/Vinicius-Eira/CarCheck)
+## 🏋️ MatchTrainer
+### SaaS Platform for Personal Trainers & Students
 
-Plataforma inteligente de diagnóstico e monitoramento veicular em tempo real, desenvolvida para identificar falhas antes que se tornem críticas e otimizar processos de manutenção.
+**Product — Currently in Development**
 
-O sistema utiliza Inteligência Artificial para triagem automatizada de sintomas, integra serviços externos para consulta de peças e informações técnicas, além de processar dados do veículo para gerar recomendações de manutenção.
+MatchTrainer is a SaaS platform designed to connect students with Personal Trainers through a personalized matching experience while providing trainers with tools to manage their business and students in one place.
 
-A arquitetura foi projetada para integração entre múltiplos serviços, análise contínua de dados e escalabilidade da solução.
+The product combines concepts of **marketplace, CRM and management software**, creating a digital environment where students can find trainers according to their profile and trainers can manage their professional activities.
 
-Projeto reconhecido como **Finalista no FIAP NEXT**, destacando-se pela inovação tecnológica e complexidade de integração.
+### What I am building
 
-> **Tecnologias:** React, TypeScript, Python, APIs REST, IBM Watson, Integração de Sistemas, Modelagem de Dados, Git
+- User authentication and role-based experiences for students and Personal Trainers.
+- Matching system connecting students with compatible Personal Trainers.
+- Trainer profiles and service configuration.
+- Student and trainer onboarding flows.
+- Contract and membership management.
+- Monthly payments and receipt management.
+- Management dashboards and business indicators.
+- Training and student management features.
+- Chat and communication between students and trainers.
+- Database modeling and application architecture.
+- Planning of BI modules for business and performance analysis.
+- Architecture prepared for future AI-powered features.
+
+The project is being developed with a focus on **scalability, maintainability, security and user experience**, while applying software engineering concepts throughout the product development lifecycle.
+
+> **Technologies:** React Native, TypeScript, Supabase, PostgreSQL, REST APIs, Git
 
 ---
 
-### 📦 [Sistema de Gestão de Entregas](https://github.com/Vinicius-Eira/desafio-saggezza)
+## 📅 Booklyo
+### Multi-Tenant SaaS for Scheduling & Business Management
 
-MVP de um sistema corporativo de gestão de entregas e fornecedores desenvolvido para o setor de varejo, com forte foco em segurança, alta disponibilidade e escalabilidade.
+**Product — SaaS Project**
 
-A solução foi construída utilizando **Arquitetura de Microsserviços e Clean Architecture**, dividida em serviços independentes de Autenticação (AuthService) e Core Business (DeliveryService), garantindo isolamento de responsabilidades e proteção rigorosa das rotas via tokens JWT.
+Booklyo is a multi-tenant SaaS platform designed to help independent professionals manage scheduling, customers and financial information through a centralized application.
 
-O projeto destaca o domínio prático de padrões corporativos de software, aplicação dos princípios **SOLID**, Injeção de Dependência e construção de **APIs RESTful robustas** utilizando o ecossistema .NET.
+The project focuses on combining **business management, scheduling and financial indicators** in a single platform, with architecture designed to support multiple businesses while maintaining data isolation.
 
-> **Tecnologias:** C#, .NET 8, ASP.NET Core, Entity Framework Core, SQL Server, JWT, Clean Architecture, Swagger
+### What I worked on
+
+- Development of a multi-tenant SaaS architecture.
+- Customer and appointment management.
+- Scheduling with conflict validation.
+- Financial management and business indicators.
+- Dashboard with performance metrics.
+- Calculation of indicators such as MRR, ARR and Average Ticket.
+- Automated PDF report generation.
+- REST API integration between frontend and backend.
+- Authentication and protected routes using JWT.
+- Relational database modeling.
+- Development using TypeScript with strong typing.
+- CI/CD pipeline and automated deployment.
+- Git Flow and Pull Request-based development.
+
+> **Technologies:** TypeScript, Next.js, React, Node.js, Express, Prisma, PostgreSQL, Tailwind CSS, REST APIs, JWT, Docker, Git, CI/CD
 
 ---
 
-Obrigado por visitar meu perfil.
+# 💼 Professional Experience
+
+My professional experience includes software development, systems analysis and corporate technology environments.
+
+### Veridion Tecnologia
+**Full-Stack Developer | Backend Focus**
+
+Development and maintenance of REST APIs, system integrations, business logic and software solutions using Node.js and Express.
+
+### Forest Paper
+**Systems Analyst**
+
+Systems monitoring, technical support, SQL analysis, database investigation, incident resolution and corporate systems maintenance.
+
+---
+
+# 🎓 Education
+
+### FIAP
+**Analysis and Systems Development — 2025**
+
+Higher education focused on software development, databases, systems architecture and technology solutions.
+
+---
+
+# 📌 What I Work With
+
+- Software Development
+- Full-Stack Development
+- Backend Development
+- REST APIs
+- System Integration
+- Database Design
+- Business Logic
+- SaaS Applications
+- Authentication & Security
+- Docker & CI/CD
+- Software Architecture
+
+---
+
+## 🌐 Find Me
+
+📧 [Email](mailto:viniciusantos.eira@gmail.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/vinícius-eira)
+
+🌐 [Portfolio](https://portfolio-viniciuseira.vercel.app/)
+
+💻 [GitHub](https://github.com/Vinicius-Eira)
